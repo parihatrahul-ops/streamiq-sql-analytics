@@ -3,6 +3,7 @@
 ### User Behaviour • Content Performance • Revenue • Retention • Churn
 
 > Portfolio Project | MySQL | SQL Analytics
+📊 [View the full project presentation (PDF)](Documentation/StreamIQ.pdf)
 
 ---
 
