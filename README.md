@@ -1,1 +1,0 @@
-# streamiq-sql-analytics
