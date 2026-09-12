@@ -67,7 +67,7 @@ users
 
 The project is divided into 7 analytical parts, progressing from basic user analysis to advanced product analytics.
 
-01 — Platform & User Overview
+## 🟡 01 — Platform & User Overview
 
 SQL File: SQL/01_platform_user_overview.sql
 
@@ -168,7 +168,7 @@ Business Insight
 
 This reveals whether different age groups have different acquisition patterns and can support more targeted marketing strategies.
 
-02 — User Engagement Analysis
+## 🟡 02 — User Engagement Analysis
 
 SQL File: SQL/02_user_engagement.sql
 
@@ -312,7 +312,7 @@ Business Insight
 
 This identifies highly engaged users and provides a basis for studying successful engagement patterns and retention strategies.
 
-03 — Content Performance Analysis
+## 🟡 03 — Content Performance Analysis
 
 SQL File: SQL/03_content_performance.sql
 
@@ -388,6 +388,7 @@ Content acquisition
 Recommendation systems
 Catalog planning
 Personalization
+
 Q5. Which genres have the highest completion rates?
 Explanation
 
@@ -448,7 +449,7 @@ Business Insight
 
 This combines content quality with actual viewer behaviour instead of relying on ratings alone.
 
-04 — Subscription & Revenue Analysis
+## 🟡 04 — Subscription & Revenue Analysis
 
 SQL File: SQL/04_subscription_revenue.sql
 
@@ -588,7 +589,7 @@ Business Insight
 
 This provides a time-series view of recorded successful payment revenue and helps identify stronger or weaker revenue periods.
 
-05 — Retention & User Lifecycle Analysis
+## 🟡 05 — Retention & User Lifecycle Analysis
 
 SQL File: SQL/05_retention_analysis.sql
 
@@ -678,7 +679,7 @@ Therefore, these metrics should be described as:
 
 rather than subscription retention.
 
-06 — Churn & Subscription Analysis
+## 🟡 06 — Churn & Subscription Analysis
 
 SQL File: SQL/06_churn_analysis.sql
 
@@ -790,7 +791,7 @@ A user can have multiple subscription records.
 
 Therefore, cancellation counts should not automatically be interpreted as the number of unique customers who churned.
 
-07 — Advanced SQL / Product Analytics
+## 🟡 07 — Advanced SQL / Product Analytics
 
 SQL File: SQL/07_advanced_product_analytics.sql
 
